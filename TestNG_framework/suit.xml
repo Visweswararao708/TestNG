@@ -1,0 +1,10 @@
+<suit name = "suit">
+<test name = "Report">
+<classes>
+<class name = " nov11.FirstTestNGClass">
+</class>
+<class name = "nov11.SecondTestNGClass">
+</class>
+</classes>
+</test>
+</suit>
